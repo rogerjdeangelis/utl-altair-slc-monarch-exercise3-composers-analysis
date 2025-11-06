@@ -36,7 +36,7 @@ RE: Altair-SLC-Monarch-Exercise-3-Composers-Analysis
 
     TABLE SD1.HAVE
 
-     ACCOUNT      CONTACT          NAM
+     ACCOUNT      CONTACT          COMPOSERS
 
       11887     Betty Yoder        PACHELBEL, J.
       11887     Betty Yoder        MOZART, W.A
